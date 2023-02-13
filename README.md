@@ -8,10 +8,10 @@
 </div>
 
 <p align="left">OBJECTIVE<br>⚡️ Working as a freelancer I've.<br>🔥 “Imagine, Create, Inspire!” – the three words that guide my work 🔥</p>
-<p align="left">About me<p>
+<p align="left">About Me<p>
 <p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br>🔭 I’m currently working at Upwork.<br>🔭 I’m currently working at Mostaql.<br>💬 Ask me about anything here.</p>
 <p align="left"></p>
-<p align="left">I code with</p>
+<p align="left">Services And Tools That I Use</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40" alt="dart logo"  />
@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="40" alt="kotlin logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="40" alt="googlecloud logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="java logo"  />
+  <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" height="40" width="40" alt="android  logo"  />
+
 </div>
 
 
