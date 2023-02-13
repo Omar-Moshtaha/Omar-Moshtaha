@@ -8,12 +8,8 @@
 <h4 align="left">About me</h4>
 
 ###
-<p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br>🔭 I’m currently working at Upwork<br>🔭 I’m currently working at Mostaql<br>💬 Ask me about anything here</p>
-
-###
-
+<p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br>🔭 I’m currently working at Upwork.<br>🔭 I’m currently working at Mostaql.<br>💬 Ask me about anything here.</p>
 <p align="left"></p>
-
 ###
 <h4 align="left">I code with :</h4>
 ###
