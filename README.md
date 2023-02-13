@@ -2,7 +2,9 @@
 <img src="https://storage.googleapis.com/cms-storage-bucket/70760bf1e88b184bb1bc.png" height="300" width="1000" alt="flutter logo"  />
 <p align="left">Hi, I'm Omar Mushtaha Flutter Developer 🌐 with many years of experience, passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.</p>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="http://www.google.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
