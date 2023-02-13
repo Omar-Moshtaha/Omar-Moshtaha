@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">OBJECTIVE<br><br>🔥 “Imagine,Create,Inspire!”–the three words that guide my work 🔥<br><br>🤗 About me<br><br>Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br><br>📫 How to reach me:<br><br>omarmoshtaha5@gmail.com<br><br>🔭 I’m currently working at Upwork<br><br>🔭 I’m currently working at Mostaql<br><br>💬 Ask me about anything here</h3>
+<p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br><br>🔭 I’m currently working at Upwork<br><br>🔭 I’m currently working at Mostaql<br><br>💬 Ask me about anything here</p>
 
 ###
 
