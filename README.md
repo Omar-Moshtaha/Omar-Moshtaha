@@ -1,5 +1,6 @@
+<img src="https://media.tenor.com/7uKoZuX9f8UAAAAC/flutterguide-flutter.gif" height="300" width="1000" alt="flutter logo"  />
 <h1 align="left">Hey 👋 What's up?</h1>
-<img src="https://miro.medium.com/max/900/1*ADxa8DAu2pT66Nv3roRsvA.gif" height="300" width="1000" alt="flutter logo"  />
+
 <p align="left">Hi, I'm Omar Mushtaha Flutter Developer 🌐 with many years of experience, passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.</p>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
