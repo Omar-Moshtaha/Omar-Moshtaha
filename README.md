@@ -1,13 +1,17 @@
 <img src="https://media.tenor.com/7uKoZuX9f8UAAAAC/flutterguide-flutter.gif" height="300" width="1000" alt="flutter logo"  />
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">Hi, I'm Omar Mushtaha Flutter Developer 🌐 with many years of experience, passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.</p>
 <div align="left">
   <a href="https://meet.google.com/oof-gjxx-mdn">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
+  <a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    </a>
+  <a href="omar.moshtaha5@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    </a>
 </div>
 
 <p align="left">OBJECTIVE<br>⚡️ Working as a freelancer I've.<br>🔥 “Imagine, Create, Inspire!” – the three words that guide my work 🔥</p>
