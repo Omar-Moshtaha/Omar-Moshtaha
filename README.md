@@ -1,5 +1,5 @@
 <img src="https://media.tenor.com/7uKoZuX9f8UAAAAC/flutterguide-flutter.gif" height="300" width="1000" alt="flutter logo"  />
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="left">Hi, I'm Omar Mushtaha Flutter Developer 🌐 with many years of experience, passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.</p>
 <div align="left">
