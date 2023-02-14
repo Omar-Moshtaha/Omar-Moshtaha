@@ -12,9 +12,8 @@
   <a href="omar.moshtaha5@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
     </a>
-<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
 </div>
-
+<br>
 <p align="left">OBJECTIVE<br>⚡️ Working as a freelancer I've.<br>🔥 “Imagine, Create, Inspire!” – the three words that guide my work 🔥</p>
 <p align="left">About Me<p>
 <p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br>🔭 I’m currently working at Upwork.<br>🔭 I’m currently working at Mostaql.<br>💬 Ask me about anything here.</p>
