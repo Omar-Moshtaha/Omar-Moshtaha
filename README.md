@@ -9,8 +9,8 @@
   <a  href="https://www.upwork.com/freelancers/~01a9fc2317f92b7847">
   <img src="https://www.svgrepo.com/show/331630/upwork.svg" width="52" height="40" alt="telegram logo"  />
     </a>
-  <a href="omar.moshtaha5@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://mostaql.com/u/Omar_Mushtaha">
+  <img src="https://mostaql.hsoubcdn.com/public/assets/cards/facebook@2x.png" width="52" height="40" alt="gmail logo"  />
     </a>
 </div>
 <br>
