@@ -3,11 +3,11 @@
 
 <p align="left">Hi, I'm Omar Mushtaha Flutter Developer 🌐 with many years of experience, passionate about taking your ideas and translating them into a visual that suits best you or your business ⚡🚀.</p>
 <div align="left">
-  <a href="https://meet.google.com/oof-gjxx-mdn">
+  <a href="https://www.linkedin.com/in/omar-mushtaha-55495422b/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
     </a>
-  <a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a  href="https://www.upwork.com/freelancers/~01a9fc2317f92b7847">
+  <img src="https://www.svgrepo.com/show/331630/upwork.svg" width="52" height="40" alt="telegram logo"  />
     </a>
   <a href="omar.moshtaha5@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
