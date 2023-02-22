@@ -16,8 +16,8 @@
 <br>
 <p align="left">OBJECTIVE<br><br>⚡️ Working as a freelancer  in upwork and mostaql.<br>🔥 “Imagine, Create, Inspire!” – the three words that guide my work 🔥</p>
 <p align="left">About Me<p>
-<p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br>🔭 I’m currently working at  <a href="https://www.upwork.com/freelancers/~01a9fc2317f92b7847"> Upwork.</a><br>🔭 I’m currently working at <a href="https://mostaql.com/u/Omar_Mushtaha">Mostaql</a><br>💬 Ask me about anything.
-  <a href="https://mostaql.com/u/Omar_Mushtaha">here</a>
+<p align="left">Flutter is my favorite thing 💙!<br>Trying to learn new things as long as I'm alive<br>Eager to share my knowledge. Because it satisfies me 🥳<br>Interested in implementing sophisticated UI/UX designs<br>🔭 I’m currently working at  <a href="https://www.upwork.com/freelancers/~01a9fc2317f92b7847"> Upwork.</a><br>🔭 I’m currently working at <a href="https://mostaql.com/u/Omar_Mushtaha">Mostaql.</a><br>💬 Ask me about anything
+  <a href="https://mostaql.com/u/Omar_Mushtaha">here.</a>
 </p>
 <p align="left"></p>
 <p align="left">Services And Tools That I Use</p>
